@@ -33,7 +33,7 @@ README and repo template from [Yuchia0221](https://github.com/yuchia0221/Grind-7
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self):
 -   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum):
 -   [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals):
--   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/):
+-   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors):
 -   [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water):
 
 ---
@@ -42,7 +42,7 @@ README and repo template from [Yuchia0221](https://github.com/yuchia0221/Grind-7
 
 -   [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
 -   [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks):
--   [ ] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/):
+-   [ ] [Min Stack](https://leetcode.com/problems/min-stack):
 -   [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation):
 -   [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water):
 -   [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator):
