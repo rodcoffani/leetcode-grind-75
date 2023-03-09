@@ -6,7 +6,7 @@ README and repo template from [Yuchia0221](https://github.com/yuchia0221/Grind-7
 
 ##### Problem Solved: 2 / 75
 
--   [ ] [Array](#array) (1/11)
+-   [ ] [Array](#array) (2/11)
 -   [ ] [Stack](#stack) (1/7)
 -   [ ] [Linked-List](#linked-list) (0/5)
 -   [ ] [String](#string) (0/8)
@@ -25,7 +25,7 @@ README and repo template from [Yuchia0221](https://github.com/yuchia0221/Grind-7
 ### Array
 
 -   [x] [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum/)
--   [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock):
+-   [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
 -   [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate):
 -   [ ] [Majority Element](https://leetcode.com/problems/majority-element):
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval):
