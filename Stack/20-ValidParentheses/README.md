@@ -1,4 +1,4 @@
-# Solution
+# Switch Case Solution
 For each input char that open a parenthesis, the closing one is added to the stack. And for each closing one it compares with the last one added in the stack, if they're the same, it pops the element. If they're not, it adds a dot to flag the string as a invalid one.
 
 ```javascript
