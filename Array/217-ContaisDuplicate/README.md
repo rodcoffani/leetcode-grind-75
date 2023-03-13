@@ -1,6 +1,6 @@
 # Nested Loop Solution
-A nested loop that compares, for each element, if that element appears in the array after. But, being O(n^2), causes to be very slow. 
-Runtime: 5565ms (beats 9.46%).
+A nested loop that compares, for each element, if that element appears in the array after. But, being O(n^2), causes to be very slow.\
+Runtime: 5565ms (beats 9.46%).\
 Memory: 49.2 MB (beats 95.64%).
 
 ```javascript
@@ -16,8 +16,8 @@ return false;
 
 
 # Hashmap Solution
-A hashmap which stores 1 for each number that has appeared. If a number appears more than once, then it returns true. If it never appears, then it returns false.
-Runtime: 98ms (beats 62.69%).
+A hashmap which stores 1 for each number that has appeared. If a number appears more than once, then it returns true. If it never appears, then it returns false.\
+Runtime: 98ms (beats 62.69%).\
 Memory: 59.2 MB (beats 5.65%)
 
 ```javascript
